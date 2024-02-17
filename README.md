@@ -7,7 +7,7 @@ Revolving Logo is a Java Swing application that displays a rotating logo with a 
 
 ## Features
 
-- Displays a rotating logo with a 3D effect.
+- Displays a rotating logo.
 - Bounces the logo off the window borders to prevent it from going out of view.
 - Adjustable rotation speed and logo size.
 - Loads the logo from a PNG image file.
